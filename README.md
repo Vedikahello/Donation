@@ -1,4 +1,4 @@
-# Donation
+# Donation Website
       
 There are a lot of NGOs worldwide working for the betterment in various areas. But unfortunately, people aren’t really aware of various such organizations that are doing a great job for the upliftment of the needy people. The goal of this website is to make it easier for the donors to donate as well as organisations to receive funds for their causes.
       Mainly I have used HTML and CSS for frontend coding and PHP language for backend coding.
